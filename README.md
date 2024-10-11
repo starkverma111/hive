@@ -1,24 +1,17 @@
-# recipe
+# Hive - Contact Management App
+> Built with DaisyUI & Vue.js
 
-## Project setup
-```
-npm install
-```
+Hive is a Contact Management app developed using Vue.js. This application enables multiple users to log in, manage contacts, add favorites, much more.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Live Demo
+Check out the live demo of the app here: [Hive - Contact Management App](https://vuejs-a7461.web.app/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Features
+- **User Authentication**: Multi-user login for secure access.
+- **Contact Management**: Easily add, edit, and delete contacts.
+- **Favorites**: Mark your favorite contacts for quick access.
+- **Sharing**: Share your favorite contacts with family and friends.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Technologies Used
+- **Vue.js**: A progressive JavaScript framework for building user interfaces.
+- **DaisyUI**: A component library that provides beautiful UI components for Tailwind CSS.
